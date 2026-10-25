@@ -1,116 +1,149 @@
 
-<div align="center">
-
-# Hey there! 👋 I'm Omar Waleed
-
-### 💻 Frontend Developer | JavaScript Enthusiast | Lifelong Learner
-
-I enjoy building web projects, exploring new technologies, and turning ideas into code.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Frontend+Development;HTML+%7C+CSS+%7C+JavaScript;Exploring+React;Building+Projects+%26+Learning)](https://git.io/typing-svg)
-
-[![GitHub](https://img.shields.io/badge/GitHub-OmarWaleedSigma-181717?style=for-the-badge&logo=github)](https://github.com/OmarWaleedSigma)
-[![Profile Views](https://komarev.com/ghpvc/?username=OmarWaleedSigma&style=for-the-badge&color=00e5ff)](https://github.com/OmarWaleedSigma)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🌱 I'm improving my frontend development skills.
-- 💻 I work with HTML, CSS, and JavaScript.
-- ⚛️ I explore React and modern web development.
-- 🛠️ I enjoy building and publishing personal projects.
-- 🎯 My goal is to become a better developer with every project.
-- ⚡ I believe the best way to learn programming is by building things.
-
-> "Consistency beats perfection. Keep learning, keep building."
-
----
-
-## 🛠️ Languages & Tools
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-### Languages
+# Omar Waleed
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Frontend Developer · React Learner · Builder
 
-### Frameworks & Tools
+Building web projects, exploring modern frontend technologies,  
+and improving one commit at a time.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br/>
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=OmarWaleedSigma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Omar's GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarWaleedSigma&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
-
----
-
-## 🔥 Contribution Streaks
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=OmarWaleedSigma&theme=tokyonight&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub Current and Longest Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=OmarWaleedSigma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/OmarWaleedSigma/ReactJS-Tic-Tac-Toe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarWaleedSigma&repo=ReactJS-Tic-Tac-Toe&theme=tokyonight&hide_border=true" alt="React Tic Tac Toe" />
+<a href="https://github.com/OmarWaleedSigma">
+  <img src="https://img.shields.io/badge/GitHub-OmarWaleedSigma-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-
-<a href="https://github.com/OmarWaleedSigma/ReactJS-Task-Manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarWaleedSigma&repo=ReactJS-Task-Manager&theme=tokyonight&hide_border=true" alt="React Task Manager" />
-</a>
-
-<a href="https://github.com/OmarWaleedSigma/React-Ref-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarWaleedSigma&repo=React-Ref-project&theme=tokyonight&hide_border=true" alt="React Reference Project" />
-</a>
-
-<a href="https://github.com/OmarWaleedSigma/Muslim-Azkar-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmarWaleedSigma&repo=Muslim-Azkar-System&theme=tokyonight&hide_border=true" alt="Muslim Azkar System" />
+<a href="https://github.com/OmarWaleedSigma?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## `$ whoami`
+
+```javascript
+const omar = {
+  role: "Frontend Developer",
+  location: "Egypt 🇪🇬",
+  focus: ["HTML", "CSS", "JavaScript", "React"],
+  tools: ["Git", "GitHub", "VS Code"],
+  currentlyLearning: ["React", "Modern Web Development"],
+  mindset: "Learn • Build • Improve"
+};
+```
+
+- 💻 I build interactive websites and JavaScript projects.
+- ⚛️ I'm exploring React and component-based development.
+- 🧪 I enjoy experimenting with ideas and learning by building.
+- 🎯 My goal is to become a stronger frontend developer.
+
+---
+
+## `$ tech-stack`
 
 <div align="center">
 
-[![Omar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmarWaleedSigma&theme=tokyo-night&hide_border=true&color=00E5FF&line=00E5FF&point=FFFFFF)](https://github.com/OmarWaleedSigma)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark" alt="Tech stack"/>
+
+</div>
+
+---
+
+## `$ featured-projects`
+
+> Selected from my pinned GitHub repositories.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🕌 Muslim Azkar System
+
+A JavaScript project focused on Muslim azkar.
+
+**Stack:** JavaScript
+
+[**↗ View repository**](https://github.com/OmarWaleedSigma/Muslim-Azkar-System)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦈 Sharks Group Project
+
+A collaborative web development project.
+
+**Stack:** JavaScript
+
+[**↗ View repository**](https://github.com/OmarWaleedSigma/Sharks-Group-project)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 React Tic-Tac-Toe
+
+A Tic-Tac-Toe project built with React.
+
+**Stack:** React · JavaScript
+
+[**↗ View repository**](https://github.com/OmarWaleedSigma/ReactJS-Tic-Tac-Toe)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚛️ React Ref Project
+
+A project for exploring React refs.
+
+**Stack:** React · JavaScript
+
+[**↗ View repository**](https://github.com/OmarWaleedSigma/React-Ref-project)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ✅ React Task Manager
+
+A task-management project built with React.
+
+**Stack:** React · JavaScript
+
+[**↗ View repository**](https://github.com/OmarWaleedSigma/ReactJS-Task-Manager)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ github-analytics`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=OmarWaleedSigma&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarWaleedSigma&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=OmarWaleedSigma&theme=tokyonight&hide_border=true" alt="GitHub current and longest streak"/>
+
+</div>
+
+---
+
+## `$ contribution-activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarWaleedSigma&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity"/>
 
 </div>
 
@@ -118,10 +151,10 @@ I enjoy building web projects, exploring new technologies, and turning ideas int
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### `BUILD SOMETHING. LEARN SOMETHING. REPEAT.`
 
-**Learn something new. Build something cool. Repeat.**
+**Thanks for visiting my profile!**
 
-⭐ Feel free to explore my repositories!
+[GitHub Profile](https://github.com/OmarWaleedSigma) · [Explore My Repositories](https://github.com/OmarWaleedSigma?tab=repositories)
 
 </div>
