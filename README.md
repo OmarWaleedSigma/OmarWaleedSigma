@@ -1,37 +1,33 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omar+Waleed;Frontend+Developer;JavaScript+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=7dd3fc&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Omar+Waleed;Frontend+Developer;JavaScript+%7C+React" alt="Typing animation" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OmarWaleedSigma/OmarWaleedSigma/main/assets/banner.svg" alt="Omar Waleed banner" width="100%" onerror="this.style.display='none'" />
+  <h1>Omar Waleed</h1>
+  <p><strong>Frontend Developer</strong> • JavaScript • React</p>
+  <p>📍 Egypt</p>
 </div>
 
 <style>
-  .profile-shell {
-    background: linear-gradient(135deg, rgba(12,18,28,0.96), rgba(17,24,39,0.92));
-    border: 1px solid rgba(125, 211, 252, 0.25);
-    border-radius: 20px;
-    padding: 24px;
-    box-shadow: 0 0 30px rgba(45, 212, 191, 0.12);
-    margin: 18px 0;
+  .status-pill {
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 999px;
+    background: rgba(125, 211, 252, 0.12);
+    border: 1px solid rgba(125, 211, 252, 0.35);
+    color: #dbeafe;
+    font-weight: 600;
+    margin: 10px 0 18px;
   }
 
-  .glow-text {
-    background: linear-gradient(90deg, #7dd3fc 0%, #a78bfa 45%, #34d399 100%);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    font-weight: 700;
-  }
-
-  .pulse-dot {
+  .dot {
     display: inline-block;
     width: 10px;
     height: 10px;
     background: #34d399;
     border-radius: 50%;
     margin-right: 8px;
-    box-shadow: 0 0 12px rgba(52, 211, 153, 0.9);
+    box-shadow: 0 0 14px rgba(52, 211, 153, 0.9);
     animation: pulse 1.8s infinite ease-in-out;
   }
 
@@ -40,109 +36,106 @@
     50% { transform: scale(1.35); opacity: 0.7; }
   }
 
-  .project-grid {
+  .projects {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 16px;
-    margin-top: 20px;
+    gap: 18px;
+    margin: 22px 0;
   }
 
   .project-card {
-    background: rgba(15, 23, 42, 0.95);
+    background: rgba(15, 23, 42, 0.92);
     border: 1px solid rgba(148, 163, 184, 0.2);
     border-radius: 16px;
     padding: 18px;
-    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
-    box-shadow: 0 10px 25px rgba(15, 23, 42, 0.2);
+    transition: transform 0.22s ease, border-color 0.22s ease, box-shadow 0.22s ease;
+    box-shadow: 0 12px 28px rgba(15, 23, 42, 0.18);
   }
 
   .project-card:hover {
-    transform: translateY(-5px);
+    transform: translateY(-4px);
     border-color: rgba(125, 211, 252, 0.7);
-    box-shadow: 0 16px 30px rgba(125, 211, 252, 0.18);
+    box-shadow: 0 18px 32px rgba(125, 211, 252, 0.12);
   }
 
   .badge {
     display: inline-block;
-    padding: 6px 10px;
+    padding: 5px 10px;
     border-radius: 999px;
-    background: rgba(125, 211, 252, 0.12);
-    border: 1px solid rgba(125, 211, 252, 0.3);
-    color: #dbeafe;
-    font-size: 12px;
-    font-weight: 600;
+    background: rgba(59, 130, 246, 0.12);
+    border: 1px solid rgba(96, 165, 250, 0.35);
+    color: #bfdbfe;
+    font-size: 11px;
+    font-weight: 700;
     letter-spacing: 0.04em;
     margin-bottom: 10px;
+    text-transform: uppercase;
   }
 </style>
 
-<div align="center" class="profile-shell">
-  <h1 class="glow-text">Omar Waleed</h1>
-  <p>
-    <span class="pulse-dot"></span>
-    Frontend Developer • JavaScript • React
-  </p>
-  <p>
-    I build responsive, clean, and user-friendly web interfaces with a strong focus on modern frontend development.
-  </p>
-  <p><strong>Location:</strong> Egypt</p>
+<div align="center">
+  <div class="status-pill"><span class="dot"></span>Learning, building, and improving every day</div>
 </div>
 
 ---
 
 ## About Me
 
-- Frontend developer focused on building responsive and modern web experiences.
-- Comfortable working with HTML, CSS, JavaScript, and React.
-- Interested in improving UI quality, user experience, and clean code practices.
-- Currently developing projects that strengthen my frontend skills and real-world problem solving.
+Frontend developer focused on creating clean, responsive, and user-friendly web interfaces. I enjoy turning ideas into practical UI experiences and strengthening my JavaScript and React skills through real projects and continuous learning.
+
+- 💻 Building modern frontend interfaces
+- ⚛️ Working with JavaScript and React
+- 🎯 Improving UI/UX, code quality, and problem-solving skills
+- 🌱 Learning new tools and best practices in web development
+
+---
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,nodejs" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,nodejs" alt="HTML, CSS, JavaScript, React, Git, GitHub, VS Code, and Node.js" />
 </p>
+
+---
 
 ## Featured Projects
 
-<div class="project-grid">
-
+<div class="projects">
   <div class="project-card">
     <div class="badge">JavaScript</div>
     <h3><a href="https://github.com/OmarWaleedSigma/Muslim-Azkar-System">Muslim Azkar System</a></h3>
-    <p>A project designed to provide daily Azkar in a simple and accessible interface.</p>
+    <p>A practical project designed to present daily Islamic reminders in a simple and user-friendly interface.</p>
   </div>
 
   <div class="project-card">
     <div class="badge">JavaScript</div>
     <h3><a href="https://github.com/OmarWaleedSigma/Sharks-Group-project">Sharks Group Project</a></h3>
-    <p>A collaborative web project built to practice team-based frontend development.</p>
+    <p>A collaborative frontend project developed to practice teamwork, structure, and UI implementation.</p>
   </div>
 
   <div class="project-card">
     <div class="badge">React</div>
     <h3><a href="https://github.com/OmarWaleedSigma/ReactJS-Tic-Tac-Toe">ReactJS Tic-Tac-Toe</a></h3>
-    <p>A simple game project built to practice React components, state, and UI logic.</p>
-  </div>
-
-  <div class="project-card">
-    <div class="badge">React</div>
-    <h3><a href="https://github.com/OmarWaleedSigma/React-Ref-project">React Ref Project</a></h3>
-    <p>A React practice project focused on refs and DOM interaction techniques.</p>
+    <p>A classic game project built with React to practice state handling and interactive UI logic.</p>
   </div>
 
   <div class="project-card">
     <div class="badge">React</div>
     <h3><a href="https://github.com/OmarWaleedSigma/ReactJS-Task-Manager">ReactJS Task Manager</a></h3>
-    <p>A task management app for practicing state management and component structure.</p>
+    <p>A task management app focused on building a clear component structure and state-driven workflow.</p>
+  </div>
+
+  <div class="project-card">
+    <div class="badge">React</div>
+    <h3><a href="https://github.com/OmarWaleedSigma/React-Ref-project">React Ref Project</a></h3>
+    <p>A React practice project exploring refs and DOM interaction techniques.</p>
   </div>
 
   <div class="project-card">
     <div class="badge">React</div>
     <h3><a href="https://github.com/OmarWaleedSigma/Context-API">Context API</a></h3>
-    <p>A React project exploring state sharing with the Context API.</p>
+    <p>A project focused on learning state sharing and data flow through React Context.</p>
   </div>
-
 </div>
 
 ---
@@ -155,15 +148,15 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=OmarWaleedSigma&theme=radical&hide_border=true&background=0d1117&stroke=7dd3fc&ring=7dd3fc&fire=fb7185&currStreakLabel=ffffff" alt="Contribution streak" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=OmarWaleedSigma&theme=radical&hide_border=true&background=0d1117&stroke=7dd3fc&ring=7dd3fc&fire=ff6b6b&currStreakLabel=ffffff" alt="Contribution streak" width="80%" />
 </div>
 
 ---
 
 <div align="center">
-  <p><strong>Thanks for visiting my profile.</strong> 🌱</p>
+  <p><strong>Thanks for visiting my profile.</strong> 🚀</p>
   <p>
-    <a href="https://github.com/OmarWaleedSigma">GitHub Profile</a> •
+    <a href="https://github.com/OmarWaleedSigma">GitHub</a> •
     <a href="https://github.com/OmarWaleedSigma?tab=repositories">Repositories</a>
   </p>
 </div>
