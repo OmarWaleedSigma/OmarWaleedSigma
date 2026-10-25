@@ -1,12 +1,11 @@
-<!--
+ <!--
   OMAR WALEED — PROFILE README
-  Theme: Midnight Black × Neon Green × Electric Cyan
-  Replace this file in: OmarWaleedSigma/OmarWaleedSigma
+  Theme: Midnight Black × Rainbow RGB × Neon Green
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07110D,45:103D2A,100:00E5FF&text=OMAR%20WALEED&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20JavaScript%20%7C%20React&descSize=17&descAlignY=59&animation=fadeIn" alt="Omar Waleed — Frontend Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF0080,16:FF4500,32:FFD700,48:00E676,64:00CFFF,80:7B61FF,100:FF0080&text=OMAR%20WALEED&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20JavaScript%20%7C%20React&descSize=17&descAlignY=59&animation=fadeIn" alt="Omar Waleed — Frontend Developer" />
 
 <br/>
 
@@ -201,6 +200,10 @@ A React learning project focused on refs and DOM interaction.
   <img src="https://streak-stats.demolab.com?user=OmarWaleedSigma&theme=dark&hide_border=true&background=07110D&ring=7CFFB2&fire=00D9FF&currStreakLabel=7CFFB2&sideLabels=D6E5DE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A9A92" alt="GitHub contribution streak"/>
 </a>
 
+</div>
+
+---
+
 ## `05` — Currently Leveling Up
 
 <div align="center">
@@ -238,8 +241,8 @@ If you find an interesting project, feel free to explore the code and follow my 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,50:103D2A,100:07110D" width="100%" alt="Neon cyan and green footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF0080,20:FF4500,40:FFD700,60:00E676,80:00CFFF,100:8A2BE2" width="100%" alt="Rainbow gradient footer"/>
 
-<sub>Built with curiosity, consistency, and a little neon. 💚</sub>
+<sub>Built with curiosity, consistency, and a little RGB. 🌈</sub>
 
 </div>
