@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=7dd3fc&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Omar+Waleed;Frontend+Developer;JavaScript+%26+React;Building+clean+web+experiences" alt="Typing animation introducing Omar Waleed" />
-
-# Omar Waleed
-### Frontend Developer
+<a href="https://github.com/OmarWaleedSigma">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=7dd3fc&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Omar+Waleed;Frontend+Developer;JavaScript+%26+React;Building+clean+web+experiences" alt="Typing animation introducing Omar Waleed" />
+</a>
 
 <p>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=OmarWaleedSigma&style=flat-square&color=7dd3fc" />
-  <img alt="Location" src="https://img.shields.io/badge/Egypt-Frontend%20Developer-0A66C2?style=flat-square&logo=mapbox&logoColor=white" />
+  <a href="https://github.com/OmarWaleedSigma"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/OmarWaleedSigma?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
+
+<img src="https://img.shields.io/badge/Open%20to-Front--End%20roles-22C55E?style=flat-square" alt="Open to front-end roles" />
+<img src="https://img.shields.io/badge/Focus-Clean%20UI%20%26%20UX-8B5CF6?style=flat-square" alt="Focus on clean UI and UX" />
 
 </div>
 
