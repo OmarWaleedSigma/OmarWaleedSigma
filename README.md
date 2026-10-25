@@ -1,31 +1,38 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=7dd3fc&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Omar+Waleed;Frontend+Developer;JavaScript+%7C+React" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=7dd3fc&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Omar+Waleed;Frontend+Developer;JavaScript+%7C+React" alt="Typing animation" />
 </div>
 
 # Omar Waleed
-### Frontend Developer | JavaScript | React
+### Frontend Developer
 
-📍 Egypt
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=OmarWaleedSigma&style=flat-square&color=7dd3fc" />
+  <img alt="Location" src="https://img.shields.io/badge/Egypt-Frontend%20Developer-0A66C2?style=flat-square&logo=mapbox&logoColor=white" />
+</p>
 
-> Learning, building, and improving every day.
+A passionate frontend developer focused on creating clean, responsive, and user-friendly web experiences using JavaScript and React.
 
 ---
 
 ## About Me
 
-Frontend developer focused on creating clean, responsive, and user-friendly web interfaces. I enjoy turning ideas into practical UI experiences and strengthening my JavaScript and React skills through real projects and continuous learning.
-
-- 💻 Building modern frontend interfaces
+- 💻 Building modern and responsive web interfaces
 - ⚛️ Working with JavaScript and React
-- 🎯 Improving UI/UX, code quality, and problem-solving skills
-- 🌱 Learning new tools and best practices in web development
+- 🎯 Improving UI/UX, structure, and user experience
+- 🌱 Learning new tools and best practices in frontend development
 
 ---
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,nodejs" alt="HTML, CSS, JavaScript, React, Git, GitHub, VS Code, and Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -34,16 +41,16 @@ Frontend developer focused on creating clean, responsive, and user-friendly web 
 
 | Project | Description |
 | --- | --- |
-| [Muslim Azkar System](https://github.com/OmarWaleedSigma/Muslim-Azkar-System) | A practical project designed to present daily Islamic reminders in a simple and user-friendly interface. |
-| [Sharks Group Project](https://github.com/OmarWaleedSigma/Sharks-Group-project) | A collaborative frontend project developed to practice teamwork, structure, and UI implementation. |
-| [ReactJS Tic-Tac-Toe](https://github.com/OmarWaleedSigma/ReactJS-Tic-Tac-Toe) | A classic game project built with React to practice state handling and interactive UI logic. |
-| [ReactJS Task Manager](https://github.com/OmarWaleedSigma/ReactJS-Task-Manager) | A task management app focused on building a clear component structure and state-driven workflow. |
-| [React Ref Project](https://github.com/OmarWaleedSigma/React-Ref-project) | A React practice project exploring refs and DOM interaction techniques. |
-| [Context API](https://github.com/OmarWaleedSigma/Context-API) | A project focused on learning state sharing and data flow through React Context. |
+| [Muslim Azkar System](https://github.com/OmarWaleedSigma/Muslim-Azkar-System) | A project focused on presenting daily Islamic reminders in a simple and user-friendly interface. |
+| [Sharks Group Project](https://github.com/OmarWaleedSigma/Sharks-Group-project) | A collaborative frontend project built to practice teamwork, structure, and UI development. |
+| [ReactJS Tic-Tac-Toe](https://github.com/OmarWaleedSigma/ReactJS-Tic-Tac-Toe) | A classic game project built with React to practice interactivity and state handling. |
+| [ReactJS Task Manager](https://github.com/OmarWaleedSigma/ReactJS-Task-Manager) | A task manager app focused on component structure, state flow, and practical UI logic. |
+| [React Ref Project](https://github.com/OmarWaleedSigma/React-Ref-project) | A React practice project centered on refs and DOM interaction techniques. |
+| [Context API](https://github.com/OmarWaleedSigma/Context-API) | A learning project focused on sharing state through React Context. |
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmarWaleedSigma&show_icons=true&theme=radical&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0&bg_color=0d1117" alt="GitHub stats" width="48%" />
