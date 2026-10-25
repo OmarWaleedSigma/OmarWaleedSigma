@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/OmarWaleedSigma">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2800&pause=950&color=7CFFB2&background=0d1117&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Omar+Waleed;Frontend+Developer;JavaScript+%7C+React+%7C+UI;Building+clean%2C+fast%2C+smart+web+experiences"
+      src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=33&duration=2600&pause=1000&color=7CFFB2&background=0d1117&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Omar+Waleed;Frontend+Developer;JavaScript+%7C+React+%7C+UI;Clean%2C+smart%2C+modern+web+experiences"
       alt="Typing animation for Omar Waleed"
     />
   </a>
@@ -13,11 +13,12 @@
   </p>
 
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer.png" alt="Computer emoji" width="28" />
-    <span style="background: linear-gradient(90deg,#7CFFB2,#4ADEFF,#C084FC,#F9A8D4,#7CFFB2); -webkit-background-clip:text; background-clip:text; color:transparent; font-weight:900;">Frontend Developer</span>
+    <span style="background: linear-gradient(90deg,#7CFFB2,#62D6FF,#B794FF,#F9A8D4,#7CFFB2); -webkit-background-clip:text; background-clip:text; color:transparent; font-weight:900;">
+      Frontend Developer • JavaScript • React • UI
+    </span>
   </h2>
 
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-00D4FF?style=flat-square" alt="Focus: frontend development" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-00D4FF?style=flat-square" alt="Focus on frontend development" />
   <img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20React-8B5CF6?style=flat-square" alt="Stack: HTML CSS JS React" />
   <img src="https://img.shields.io/badge/Mode-Learning%20%26%20Building-22C55E?style=flat-square" alt="Mode: learning and building" />
 </div>
@@ -26,21 +27,21 @@
 
 ## 🚀 About Me
 
-I'm a frontend developer focused on building clean, responsive, and user-friendly web experiences with JavaScript and React.
+I'm Omar Waleed, a frontend developer focused on building clean, responsive, and user-friendly web experiences with JavaScript and React.
 
-I enjoy turning ideas into polished interfaces, improving UX, and building practical apps that feel smooth and modern.
+I enjoy turning ideas into polished interfaces, improving UX, and creating projects that are both practical and visually sharp.
 
-- 💻 Designing and building modern interfaces
+- 💻 Building modern web interfaces
 - ⚛️ Working with JavaScript and React
-- 🎨 Improving UX, layouts, and accessibility
-- 🌱 Learning and shipping real-world frontend projects
+- 🎨 Improving layout, accessibility, and experience
+- 🌱 Learning and shipping real frontend projects
 
 ---
 
 ## 🧠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,nodejs,json&theme=dark" alt="Icon-based frontend and developer tool stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,nodejs,json&theme=dark" alt="Frontend and developer tools stack" />
 </div>
 
 ### Main tools I use
@@ -56,13 +57,13 @@ I enjoy turning ideas into polished interfaces, improving UX, and building pract
 
 ## ✨ Featured Projects
 
-A few public projects that reflect my frontend learning, UI work, and React practice.
+These are the public repos that reflect my frontend learning, UI work, and React practice.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🕌 <a href="https://github.com/OmarWaleedSigma/Muslim-Azkar-System">Muslim Azkar System</a></h3>
-      <p>A clean and accessible app for daily reminders and Islamic supplications.</p>
+      <p>A clean and simple project for daily reminders and Islamic supplications.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
@@ -72,7 +73,7 @@ A few public projects that reflect my frontend learning, UI work, and React prac
     </td>
     <td width="50%" valign="top">
       <h3>🦈 <a href="https://github.com/OmarWaleedSigma/Sharks-Group-project">Sharks Group Project</a></h3>
-      <p>A collaborative educational frontend project focused on layout, structure, and responsive UI.</p>
+      <p>A collaborative educational frontend project focused on layout, structure, and responsive design.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
@@ -84,7 +85,7 @@ A few public projects that reflect my frontend learning, UI work, and React prac
   <tr>
     <td width="50%" valign="top">
       <h3>❌ <a href="https://github.com/OmarWaleedSigma/ReactJS-Tic-Tac-Toe">ReactJS Tic-Tac-Toe</a></h3>
-      <p>A classic game project used to practice state flow and interactivity in React.</p>
+      <p>A classic React game used to practice interactivity, UI logic, and state handling.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
@@ -104,7 +105,7 @@ A few public projects that reflect my frontend learning, UI work, and React prac
   <tr>
     <td width="50%" valign="top">
       <h3>🔁 <a href="https://github.com/OmarWaleedSigma/React-Ref-project">React Ref Project</a></h3>
-      <p>A learning project focused on refs and real DOM interaction in React.</p>
+      <p>A learning project focused on refs and DOM interaction in React.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
       </p>
@@ -112,7 +113,7 @@ A few public projects that reflect my frontend learning, UI work, and React prac
     </td>
     <td width="50%" valign="top">
       <h3>🧩 <a href="https://github.com/OmarWaleedSigma/Context-API">Context API</a></h3>
-      <p>A state-sharing project exploring React Context patterns and structure.</p>
+      <p>A project centered on state-sharing patterns using React Context.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
       </p>
@@ -140,7 +141,7 @@ A few public projects that reflect my frontend learning, UI work, and React prac
 
 - Building cleaner and more polished frontend interfaces
 - Strengthening React fundamentals and UI patterns
-- Improving responsive design and accessibility
+- Improving responsive design and experience details
 - Practicing reusable components and real-world frontend architecture
 
 ---
