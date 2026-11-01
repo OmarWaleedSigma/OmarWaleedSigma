@@ -59,12 +59,11 @@ _Pinned repositories will appear here after the first scheduled sync._
 
 <div align="center">
 
-<a href="https://github.com/OmarWaleedSigma"><img height="170" src="https://github-readme-stats.vercel.app/api?username=OmarWaleedSigma&show_icons=true&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=C9D1D9&icon_color=38BDF8&rank_icon=github" alt="GitHub profile statistics"/></a>
-<a href="https://github.com/OmarWaleedSigma"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarWaleedSigma&layout=compact&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=C9D1D9" alt="Most-used languages in public repositories"/></a>
-
-<br/>
-
-<a href="https://github.com/OmarWaleedSigma"><img src="https://streak-stats.demolab.com?user=OmarWaleedSigma&theme=dark&hide_border=true&background=0B1220&ring=5EEAD4&fire=38BDF8&currStreakLabel=5EEAD4&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub contribution streak"/></a>
+| Explore | Link |
+|:--|:--|
+| My profile | [github.com/OmarWaleedSigma](https://github.com/OmarWaleedSigma) |
+| My repositories | [Browse projects](https://github.com/OmarWaleedSigma?tab=repositories) |
+| My contribution activity | [View contributions](https://github.com/OmarWaleedSigma?tab=overview) |
 
 </div>
 
