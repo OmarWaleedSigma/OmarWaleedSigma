@@ -96,14 +96,6 @@ _Pinned repositories will appear here after the first scheduled sync._
 
 <div align="center">
 
-### 📊 My GitHub Overview
-
-<a href="https://github.com/OmarWaleedSigma">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=OmarWaleedSigma&show_icons=true&rank_icon=github&hide_border=true&bg_color=07110D&title_color=7CFFB2&text_color=D6E5DE&icon_color=00D9FF" alt="Omar's GitHub statistics"/>
-</a>
-<a href="https://github.com/OmarWaleedSigma">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarWaleedSigma&layout=compact&langs_count=8&hide_border=true&bg_color=07110D&title_color=7CFFB2&text_color=D6E5DE" alt="Most-used programming languages in public repositories"/>
-</a>
 
 ### 🔥 Contribution Streak
 
