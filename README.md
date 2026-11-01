@@ -1,82 +1,49 @@
- <!--
-  OMAR WALEED — PROFILE README
-  Theme: Midnight Black × Rainbow RGB × Neon Green
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF0080,16:FF4500,32:FFD700,48:00E676,64:00CFFF,80:7B61FF,100:FF0080&text=OMAR%20WALEED&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20JavaScript%20%7C%20React&descSize=17&descAlignY=59&animation=fadeIn" alt="Omar Waleed — Frontend Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,50:0F766E,100:0B1220&text=OMAR%20WALEED&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20JAVASCRIPT%20%26%20REACT&descSize=15&descAlignY=60&animation=fadeIn" alt="Omar Waleed — Frontend Developer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=7CFFB2&center=true&vCenter=true&width=750&height=55&lines=Turning+ideas+into+interactive+experiences;Building+with+HTML%2C+CSS+%26+JavaScript;Learning+React+by+building+real+projects;Always+learning.+Always+building." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=720&height=48&lines=Building+clean%2C+responsive+web+experiences;Turning+ideas+into+interactive+interfaces;Learning+by+building+with+JavaScript+%26+React" alt="Building responsive interfaces, interactive experiences, and learning with JavaScript and React" />
 
 <br/>
 
-<a href="https://github.com/OmarWaleedSigma">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-101820?style=for-the-badge&logo=github&logoColor=7CFFB2" alt="GitHub profile"/>
-</a>
-<a href="https://github.com/OmarWaleedSigma?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-My%20Projects-101820?style=for-the-badge&logo=git&logoColor=00D9FF" alt="Repositories"/>
-</a>
-<a href="https://github.com/OmarWaleedSigma?tab=stars">
-  <img src="https://img.shields.io/badge/Explore-My%20Stars-101820?style=for-the-badge&logo=githubsponsors&logoColor=7CFFB2" alt="Starred repositories"/>
-</a>
+<a href="https://github.com/OmarWaleedSigma?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"/></a>
+<a href="https://github.com/OmarWaleedSigma?tab=stars"><img src="https://img.shields.io/badge/Starred%20Repos-0B1220?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Explore my starred repositories"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-FRONTEND%20DEVELOPMENT-123D2A?style=flat-square&labelColor=07110D" alt="Frontend development"/>
-<img src="https://img.shields.io/badge/STACK-JAVASCRIPT%20%2B%20REACT-123D2A?style=flat-square&labelColor=07110D" alt="JavaScript and React"/>
-<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-123D2A?style=flat-square&labelColor=07110D" alt="Always learning"/>
+<img src="https://img.shields.io/badge/FOCUS-Frontend%20Development-102A2A?style=flat-square&labelColor=0B1220" alt="Focus: frontend development"/>
+<img src="https://img.shields.io/badge/BUILDING-JavaScript%20%26%20React-102A2A?style=flat-square&labelColor=0B1220" alt="Building with JavaScript and React"/>
+<img src="https://img.shields.io/badge/MINDSET-Learn%20by%20Building-102A2A?style=flat-square&labelColor=0B1220" alt="Learn by building"/>
 
 </div>
 
 ---
 
-## `01` — About Me
+## About
 
-Hey! I'm **Omar Waleed**, a frontend developer focused on creating clean, responsive, and interactive web experiences.
+Hi, I'm **Omar Waleed** — a frontend developer who enjoys turning ideas into clean, responsive, and interactive web experiences.
 
-I enjoy taking an idea, breaking it into components, and turning it into something people can actually use. I'm continuously developing my skills through hands-on projects, experimentation, and learning modern frontend techniques.
+I'm growing my skills through hands-on projects, exploring React and modern UI patterns, and improving how I structure and polish the things I build.
 
-- 💻 **Building:** Interactive websites and web applications.
-- ⚛️ **Exploring:** React, reusable components, and state management.
-- 🎨 **Improving:** Responsive layouts, UI design, and user experience.
-- 🧩 **Practicing:** JavaScript logic, APIs, and real-world project structure.
-- 🚀 **Next goal:** Build increasingly polished and maintainable applications.
-
-> I believe the best way to learn development is to build something, understand what went wrong, and make it better.
-
----
-
-## `02` — Tech Stack
+## Toolkit
 
 <div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript, and React"/>
-
-### Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and VS Code"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, React, Git, GitHub, and VS Code"/>
 
 </div>
 
-| Technology | What I use it for |
+| Focus | What I'm working with |
 |:--|:--|
-| HTML5 | Semantic page structure |
-| CSS3 | Styling, layouts, and responsive design |
-| JavaScript | Interactivity, application logic, and DOM manipulation |
-| React | Components, props, state, and UI development |
-| Git & GitHub | Version control and project collaboration |
-| VS Code | Everyday development |
+| Web fundamentals | Semantic HTML, responsive CSS, and JavaScript |
+| UI development | React components, props, and state |
+| Workflow | Git, GitHub, and VS Code |
 
----
+## Featured projects
 
-## `03` — Featured Projects
-
-Projects pinned on my GitHub profile are shown below and synced automatically every five minutes.
+These are the repositories pinned on my GitHub profile. The list syncs automatically every five minutes (best-effort).
 
 <!-- PINNED-PROJECTS:START -->
 _Pinned repositories will appear here after the first scheduled sync._
@@ -84,68 +51,47 @@ _Pinned repositories will appear here after the first scheduled sync._
 
 <div align="center">
 
-<a href="https://github.com/OmarWaleedSigma?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=07110D" alt="Explore all repositories"/>
-</a>
+<a href="https://github.com/OmarWaleedSigma?tab=repositories"><img src="https://img.shields.io/badge/See%20All%20Repositories-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="See all repositories"/></a>
 
 </div>
 
----
-
-## `04` — GitHub Analytics
+## GitHub at a glance
 
 <div align="center">
 
-
-### 🔥 Contribution Streak
-
-<a href="https://github.com/OmarWaleedSigma">
-  <img src="https://streak-stats.demolab.com?user=OmarWaleedSigma&theme=dark&hide_border=true&background=07110D&ring=7CFFB2&fire=00D9FF&currStreakLabel=7CFFB2&sideLabels=D6E5DE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A9A92" alt="GitHub contribution streak"/>
-</a>
-
-</div>
-
----
-
-## `05` — Currently Leveling Up
-
-<div align="center">
-
-| Area | Direction |
-|:--|:--|
-| ⚛️ React | Components, state, and reusable UI |
-| 🎨 UI / UX | Responsive design and interface polish |
-| 🧠 JavaScript | Stronger logic and problem-solving |
-| 🧱 Architecture | Cleaner, maintainable project structure |
-| 🌐 Web development | Building complete, practical applications |
-
-</div>
-
-My goal is to keep moving beyond tutorials by building projects, experimenting with new ideas, and learning how to write better code.
-
----
-
-## `06` — Let's Connect
-
-<div align="center">
-
-**Thanks for checking out my corner of GitHub.**
-
-If you find an interesting project, feel free to explore the code and follow my development journey.
+<a href="https://github.com/OmarWaleedSigma"><img height="170" src="https://github-readme-stats.vercel.app/api?username=OmarWaleedSigma&show_icons=true&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=C9D1D9&icon_color=38BDF8&rank_icon=github" alt="GitHub profile statistics"/></a>
+<a href="https://github.com/OmarWaleedSigma"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarWaleedSigma&layout=compact&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=C9D1D9" alt="Most-used languages in public repositories"/></a>
 
 <br/>
 
-<a href="https://github.com/OmarWaleedSigma">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-101820?style=for-the-badge&logo=github&logoColor=7CFFB2" alt="Visit my GitHub"/>
-</a>
-<a href="https://github.com/OmarWaleedSigma?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore%20Repositories-101820?style=for-the-badge&logo=git&logoColor=00D9FF" alt="Explore repositories"/>
-</a>
+<a href="https://github.com/OmarWaleedSigma"><img src="https://streak-stats.demolab.com?user=OmarWaleedSigma&theme=dark&hide_border=true&background=0B1220&ring=5EEAD4&fire=38BDF8&currStreakLabel=5EEAD4&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub contribution streak"/></a>
+
+</div>
+
+## Contribution activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarWaleedSigma/OmarWaleedSigma/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarWaleedSigma/OmarWaleedSigma/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/OmarWaleedSigma/OmarWaleedSigma/output/github-contribution-grid-snake.svg" alt="Animated snake moving across my GitHub contribution graph"/>
+</picture>
+
+</div>
+
+## Thanks for stopping by
+
+I'm always learning, building, and refining my craft. Feel free to explore my repositories and follow along.
+
+<div align="center">
+
+<a href="https://github.com/OmarWaleedSigma"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-0B1220?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Visit my GitHub profile"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF0080,20:FF4500,40:FFD700,60:00E676,80:00CFFF,100:8A2BE2" width="100%" alt="Rainbow gradient footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1220,50:0F766E,100:0B1220" alt="Emerald gradient footer"/>
 
-<sub>Built with curiosity, consistency, and a little RGB. 🌈</sub>
+<sub>Built with curiosity, consistency, and a love for the web.</sub>
 
 </div>

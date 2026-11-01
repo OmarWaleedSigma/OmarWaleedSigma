@@ -2,6 +2,7 @@ name: Sync pinned projects
 
 on:
   schedule:
+    # GitHub Actions scheduled workflows have a five-minute minimum interval.
     - cron: "*/5 * * * *"
   workflow_dispatch:
 
