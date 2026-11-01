@@ -76,100 +76,11 @@ I enjoy taking an idea, breaking it into components, and turning it into somethi
 
 ## `03` — Featured Projects
 
-A selection of projects from my repositories that showcase my frontend practice, experimentation, and development journey.
+Projects pinned on my GitHub profile are shown below and synced automatically every five minutes.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🕌 Muslim Azkar System
-
-A web project centered on daily Islamic azkar and supplications.
-
-**Highlights**
-- HTML, CSS, and JavaScript
-- Interactive frontend functionality
-- A practical, focused user experience
-
-<a href="https://github.com/OmarWaleedSigma/Muslim-Azkar-System"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFB2?style=for-the-badge&logo=github&logoColor=07110D" alt="View Muslim Azkar System"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🦈 Sharks Group Project
-
-A collaborative educational frontend project.
-
-**Highlights**
-- Web interface development
-- JavaScript and CSS
-- Working with a group project structure
-
-<a href="https://github.com/OmarWaleedSigma/Sharks-Group-project"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFB2?style=for-the-badge&logo=github&logoColor=07110D" alt="View Sharks Group Project"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ❌ ReactJS Tic-Tac-Toe
-
-A classic game built while practicing React development.
-
-**Highlights**
-- React components
-- Interactive game logic
-- State-driven UI updates
-
-<a href="https://github.com/OmarWaleedSigma/ReactJS-Tic-Tac-Toe"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFB2?style=for-the-badge&logo=github&logoColor=07110D" alt="View Tic-Tac-Toe"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ ReactJS Task Manager
-
-A task management application focused on everyday interactions.
-
-**Highlights**
-- React component structure
-- Application state
-- User interaction and task workflows
-
-<a href="https://github.com/OmarWaleedSigma/ReactJS-Task-Manager"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFB2?style=for-the-badge&logo=github&logoColor=07110D" alt="View Task Manager"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 React Context API
-
-A project exploring shared state with React Context.
-
-**Highlights**
-- Context API fundamentals
-- Sharing data across components
-- Organizing React application state
-
-<a href="https://github.com/OmarWaleedSigma/Context-API"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFB2?style=for-the-badge&logo=github&logoColor=07110D" alt="View Context API project"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔁 React Ref Project
-
-A React learning project focused on refs and DOM interaction.
-
-**Highlights**
-- React refs
-- Referencing DOM elements
-- Exploring additional React patterns
-
-<a href="https://github.com/OmarWaleedSigma/React-Ref-project"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFB2?style=for-the-badge&logo=github&logoColor=07110D" alt="View React Ref project"/></a>
-
-</td>
-</tr>
-</table>
+<!-- PINNED-PROJECTS:START -->
+_Pinned repositories will appear here after the first scheduled sync._
+<!-- PINNED-PROJECTS:END -->
 
 <div align="center">
 
