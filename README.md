@@ -1,96 +1,240 @@
+ <!--
+  OMAR WALEED — PROFILE README
+  Theme: Midnight Black × Rainbow RGB × Neon Green
+-->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,50:0F766E,100:0B1220&text=OMAR%20WALEED&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20JAVASCRIPT%20%26%20REACT&descSize=15&descAlignY=60&animation=fadeIn" alt="Omar Waleed — Frontend Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF0080,16:FF4500,32:FFD700,48:00E676,64:00CFFF,80:7B61FF,100:FF0080&text=OMAR%20WALEED&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20JavaScript%20%7C%20React&descSize=17&descAlignY=59&animation=fadeIn" alt="Omar Waleed — Frontend Developer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=720&height=48&lines=Building+clean%2C+responsive+web+experiences;Turning+ideas+into+interactive+interfaces;Learning+by+building+with+JavaScript+%26+React" alt="Building responsive interfaces, interactive experiences, and learning with JavaScript and React" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=7CFFB2&center=true&vCenter=true&width=750&height=55&lines=Turning+ideas+into+interactive+experiences;Building+with+HTML%2C+CSS+%26+JavaScript;Learning+React+by+building+real+projects;Always+learning.+Always+building." alt="Animated introduction" />
 
 <br/>
 
-<a href="https://github.com/OmarWaleedSigma?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"/></a>
-<a href="https://github.com/OmarWaleedSigma?tab=stars"><img src="https://img.shields.io/badge/Starred%20Repos-0B1220?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Explore my starred repositories"/></a>
+<a href="https://github.com/OmarWaleedSigma">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-101820?style=for-the-badge&logo=github&logoColor=7CFFB2" alt="GitHub profile"/>
+</a>
+<a href="https://github.com/OmarWaleedSigma?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-My%20Projects-101820?style=for-the-badge&logo=git&logoColor=00D9FF" alt="Repositories"/>
+</a>
+<a href="https://github.com/OmarWaleedSigma?tab=stars">
+  <img src="https://img.shields.io/badge/Explore-My%20Stars-101820?style=for-the-badge&logo=githubsponsors&logoColor=7CFFB2" alt="Starred repositories"/>
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-Frontend%20Development-102A2A?style=flat-square&labelColor=0B1220" alt="Focus: frontend development"/>
-<img src="https://img.shields.io/badge/BUILDING-JavaScript%20%26%20React-102A2A?style=flat-square&labelColor=0B1220" alt="Building with JavaScript and React"/>
-<img src="https://img.shields.io/badge/MINDSET-Learn%20by%20Building-102A2A?style=flat-square&labelColor=0B1220" alt="Learn by building"/>
+<img src="https://img.shields.io/badge/FOCUS-FRONTEND%20DEVELOPMENT-123D2A?style=flat-square&labelColor=07110D" alt="Frontend development"/>
+<img src="https://img.shields.io/badge/STACK-JAVASCRIPT%20%2B%20REACT-123D2A?style=flat-square&labelColor=07110D" alt="JavaScript and React"/>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-123D2A?style=flat-square&labelColor=07110D" alt="Always learning"/>
 
 </div>
 
 ---
 
-## About
+## `01` — About Me
 
-Hi, I'm **Omar Waleed** — a frontend developer who enjoys turning ideas into clean, responsive, and interactive web experiences.
+Hey! I'm **Omar Waleed**, a frontend developer focused on creating clean, responsive, and interactive web experiences.
 
-I'm growing my skills through hands-on projects, exploring React and modern UI patterns, and improving how I structure and polish the things I build.
+I enjoy taking an idea, breaking it into components, and turning it into something people can actually use. I'm continuously developing my skills through hands-on projects, experimentation, and learning modern frontend techniques.
 
-## Toolkit
+- 💻 **Building:** Interactive websites and web applications.
+- ⚛️ **Exploring:** React, reusable components, and state management.
+- 🎨 **Improving:** Responsive layouts, UI design, and user experience.
+- 🧩 **Practicing:** JavaScript logic, APIs, and real-world project structure.
+- 🚀 **Next goal:** Build increasingly polished and maintainable applications.
+
+> I believe the best way to learn development is to build something, understand what went wrong, and make it better.
+
+---
+
+## `02` — Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, React, Git, GitHub, and VS Code"/>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript, and React"/>
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and VS Code"/>
 
 </div>
 
-| Focus | What I'm working with |
+| Technology | What I use it for |
 |:--|:--|
-| Web fundamentals | Semantic HTML, responsive CSS, and JavaScript |
-| UI development | React components, props, and state |
-| Workflow | Git, GitHub, and VS Code |
+| HTML5 | Semantic page structure |
+| CSS3 | Styling, layouts, and responsive design |
+| JavaScript | Interactivity, application logic, and DOM manipulation |
+| React | Components, props, state, and UI development |
+| Git & GitHub | Version control and project collaboration |
+| VS Code | Everyday development |
 
-## Featured projects
+---
 
-These are the repositories pinned on my GitHub profile. The list syncs automatically every five minutes (best-effort).
+## `03` — Featured Projects
 
-<!-- PINNED-PROJECTS:START -->
-_Pinned repositories will appear here after the first scheduled sync._
-<!-- PINNED-PROJECTS:END -->
+A selection of projects from my repositories that showcase my frontend practice, experimentation, and development journey.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🕌 Muslim Azkar System
+
+A web project centered on daily Islamic azkar and supplications.
+
+**Highlights**
+- HTML, CSS, and JavaScript
+- Interactive frontend functionality
+- A practical, focused user experience
+
+<a href="https://github.com/OmarWaleedSigma/Muslim-Azkar-System"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFB2?style=for-the-badge&logo=github&logoColor=07110D" alt="View Muslim Azkar System"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🦈 Sharks Group Project
+
+A collaborative educational frontend project.
+
+**Highlights**
+- Web interface development
+- JavaScript and CSS
+- Working with a group project structure
+
+<a href="https://github.com/OmarWaleedSigma/Sharks-Group-project"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFB2?style=for-the-badge&logo=github&logoColor=07110D" alt="View Sharks Group Project"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ❌ ReactJS Tic-Tac-Toe
+
+A classic game built while practicing React development.
+
+**Highlights**
+- React components
+- Interactive game logic
+- State-driven UI updates
+
+<a href="https://github.com/OmarWaleedSigma/ReactJS-Tic-Tac-Toe"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFB2?style=for-the-badge&logo=github&logoColor=07110D" alt="View Tic-Tac-Toe"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ ReactJS Task Manager
+
+A task management application focused on everyday interactions.
+
+**Highlights**
+- React component structure
+- Application state
+- User interaction and task workflows
+
+<a href="https://github.com/OmarWaleedSigma/ReactJS-Task-Manager"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFB2?style=for-the-badge&logo=github&logoColor=07110D" alt="View Task Manager"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 React Context API
+
+A project exploring shared state with React Context.
+
+**Highlights**
+- Context API fundamentals
+- Sharing data across components
+- Organizing React application state
+
+<a href="https://github.com/OmarWaleedSigma/Context-API"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFB2?style=for-the-badge&logo=github&logoColor=07110D" alt="View Context API project"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔁 React Ref Project
+
+A React learning project focused on refs and DOM interaction.
+
+**Highlights**
+- React refs
+- Referencing DOM elements
+- Exploring additional React patterns
+
+<a href="https://github.com/OmarWaleedSigma/React-Ref-project"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7CFFB2?style=for-the-badge&logo=github&logoColor=07110D" alt="View React Ref project"/></a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<a href="https://github.com/OmarWaleedSigma?tab=repositories"><img src="https://img.shields.io/badge/See%20All%20Repositories-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="See all repositories"/></a>
+<a href="https://github.com/OmarWaleedSigma?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=07110D" alt="Explore all repositories"/>
+</a>
 
 </div>
 
-## GitHub at a glance
+---
+
+## `04` — GitHub Analytics
 
 <div align="center">
 
-| Explore | Link |
+
+### 🔥 Contribution Streak
+
+<a href="https://github.com/OmarWaleedSigma">
+  <img src="https://streak-stats.demolab.com?user=OmarWaleedSigma&theme=dark&hide_border=true&background=07110D&ring=7CFFB2&fire=00D9FF&currStreakLabel=7CFFB2&sideLabels=D6E5DE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A9A92" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+---
+
+## `05` — Currently Leveling Up
+
+<div align="center">
+
+| Area | Direction |
 |:--|:--|
-| My profile | [github.com/OmarWaleedSigma](https://github.com/OmarWaleedSigma) |
-| My repositories | [Browse projects](https://github.com/OmarWaleedSigma?tab=repositories) |
-| My contribution activity | [View contributions](https://github.com/OmarWaleedSigma?tab=overview) |
+| ⚛️ React | Components, state, and reusable UI |
+| 🎨 UI / UX | Responsive design and interface polish |
+| 🧠 JavaScript | Stronger logic and problem-solving |
+| 🧱 Architecture | Cleaner, maintainable project structure |
+| 🌐 Web development | Building complete, practical applications |
 
 </div>
 
-## Contribution activity
+My goal is to keep moving beyond tutorials by building projects, experimenting with new ideas, and learning how to write better code.
+
+---
+
+## `06` — Let's Connect
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarWaleedSigma/OmarWaleedSigma/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarWaleedSigma/OmarWaleedSigma/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/OmarWaleedSigma/OmarWaleedSigma/output/github-contribution-grid-snake.svg" alt="Animated snake moving across my GitHub contribution graph"/>
-</picture>
+**Thanks for checking out my corner of GitHub.**
 
-</div>
+If you find an interesting project, feel free to explore the code and follow my development journey.
 
-## Thanks for stopping by
+<br/>
 
-I'm always learning, building, and refining my craft. Feel free to explore my repositories and follow along.
-
-<div align="center">
-
-<a href="https://github.com/OmarWaleedSigma"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-0B1220?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Visit my GitHub profile"/></a>
+<a href="https://github.com/OmarWaleedSigma">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-101820?style=for-the-badge&logo=github&logoColor=7CFFB2" alt="Visit my GitHub"/>
+</a>
+<a href="https://github.com/OmarWaleedSigma?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore%20Repositories-101820?style=for-the-badge&logo=git&logoColor=00D9FF" alt="Explore repositories"/>
+</a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1220,50:0F766E,100:0B1220" alt="Emerald gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF0080,20:FF4500,40:FFD700,60:00E676,80:00CFFF,100:8A2BE2" width="100%" alt="Rainbow gradient footer"/>
 
-<sub>Built with curiosity, consistency, and a love for the web.</sub>
+<sub>Built with curiosity, consistency, and a little RGB. 🌈</sub>
 
 </div>
